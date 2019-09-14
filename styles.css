@@ -1,13 +1,18 @@
 body{
     text-align: center;
-    background-image: url("/home/moringa/Desktop/Portfolio/natur.jpg");
-    /* background-image:cover; */
+    /* background-image: url("/home/moringa/Desktop/Portfolio/natur.jpg"); */
+    background-image:cover;
     /* background-repeat: no-repeat; */
+    background-color: teal;
+}
+p{
+color: black;
+font-size: 20px;
 }
   
 .new{
 width: 250px; 
-color:yellowgreen;
+color:black;
 margin-right: 15%;
 margin-left: 5%;
 
@@ -18,14 +23,13 @@ font-size: 20px;
 
 .old{
     width: 250px; 
-    color:yellowgreen;
+    color:black;
     margin-right: 10%;
     font-size: 20px;
-    /* float: left; */
 }
 #home{
     width: 350px; 
-    color:yellowgreen;
+    color:black;
     margin-right: 10%;
     font-size: 20px;
     margin-left: 5%;
@@ -33,13 +37,13 @@ font-size: 20px;
 #me{
     
         width: 350px; 
-        color:yellowgreen;
+        color:black;
         margin-right: 10%;
         font-size: 20px;
     }
     
 #img{
-border-radius:50%;
+/* border-radius:0%; */
 display: block;
 margin-left: auto;
 margin-right: auto;
