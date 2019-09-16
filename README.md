@@ -13,4 +13,4 @@ run
 ## link to live site on GitHub Pages
 https://vique254.github.io/My-portfolio/
 ## copyright and license information
-copyright (c) Victor Onyango  @2019
+copyright (c) @2019 Victor Onyango  
